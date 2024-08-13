@@ -13,4 +13,5 @@ My set of dotfiles for the awesome window manager. Basically, just a giant amalg
 
 # Acknowledgements 
 [saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles)
+
 [namishh/crystal](https://github.com/namishh/crystal/tree/main)
