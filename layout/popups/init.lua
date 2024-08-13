@@ -1,0 +1,6 @@
+require("layout.popups.wifi")
+require("layout.popups.volume")
+require("layout.popups.bright")
+require("layout.popups.wallswitch")
+require("layout.popups.winswitch")
+require("layout.popups.applauncher")
